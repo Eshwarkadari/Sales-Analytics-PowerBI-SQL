@@ -1,0 +1,51 @@
+sale_id,order_date,ship_date,customer_name,segment,region,city,product_name,category,sub_category,quantity,unit_price,discount,revenue,profit
+1,2023-01-05,2023-01-08,Ravi Kumar,Consumer,South,Hyderabad,Laptop Pro 15,Electronics,Laptops,1,55000,0.05,52250.00,12250.00
+2,2023-01-12,2023-01-15,Priya Sharma,Corporate,West,Mumbai,Office Chair Deluxe,Furniture,Chairs,2,12000,0.00,24000.00,10000.00
+3,2023-01-20,2023-01-23,Amit Patel,Consumer,West,Ahmedabad,A4 Paper Ream,Office Supplies,Paper,5,350,0.00,1750.00,850.00
+4,2023-02-03,2023-02-06,Sneha Reddy,Home Office,South,Bangalore,Wireless Mouse,Electronics,Accessories,3,1200,0.10,3240.00,1440.00
+5,2023-02-14,2023-02-17,Vikram Singh,Corporate,North,Delhi,Standing Desk,Furniture,Desks,1,25000,0.05,23750.00,8750.00
+6,2023-02-28,2023-03-02,Anita Joshi,Consumer,West,Pune,USB-C Hub,Electronics,Accessories,1,3500,0.00,3500.00,1700.00
+7,2023-03-10,2023-03-13,Rahul Nair,Corporate,South,Chennai,Ergonomic Keyboard,Electronics,Accessories,1,4500,0.10,4050.00,1550.00
+8,2023-03-22,2023-03-25,Deepika Rao,Consumer,East,Kolkata,Monitor 24 inch,Electronics,Monitors,1,18000,0.05,17100.00,5100.00
+9,2023-04-05,2023-04-08,Suresh Menon,Home Office,South,Kochi,Whiteboard Markers,Office Supplies,Stationery,10,250,0.00,2500.00,1500.00
+10,2023-04-18,2023-04-21,Kavya Iyer,Consumer,South,Hyderabad,Webcam HD 1080p,Electronics,Accessories,1,3200,0.00,3200.00,1600.00
+11,2023-05-02,2023-05-05,Ravi Kumar,Consumer,South,Hyderabad,Notebook Pack,Office Supplies,Stationery,5,400,0.00,2000.00,1100.00
+12,2023-05-15,2023-05-18,Priya Sharma,Corporate,West,Mumbai,Desk Lamp LED,Electronics,Lighting,1,2200,0.05,2090.00,990.00
+13,2023-06-01,2023-06-04,Amit Patel,Consumer,West,Ahmedabad,Filing Cabinet,Furniture,Storage,1,8000,0.10,7200.00,2200.00
+14,2023-06-20,2023-06-23,Sneha Reddy,Home Office,South,Bangalore,Printer Ink Set,Office Supplies,Ink,1,1800,0.00,1800.00,900.00
+15,2023-07-08,2023-07-11,Vikram Singh,Corporate,North,Delhi,Laptop Pro 15,Electronics,Laptops,1,55000,0.10,49500.00,9500.00
+16,2023-07-25,2023-07-28,Anita Joshi,Consumer,West,Pune,Bookshelf 5-tier,Furniture,Storage,1,6500,0.05,6175.00,2175.00
+17,2023-08-10,2023-08-13,Rahul Nair,Corporate,South,Chennai,Wireless Mouse,Electronics,Accessories,2,1200,0.00,2400.00,1200.00
+18,2023-08-22,2023-08-25,Deepika Rao,Consumer,East,Kolkata,Standing Desk,Furniture,Desks,1,25000,0.05,23750.00,8750.00
+19,2023-09-05,2023-09-08,Suresh Menon,Home Office,South,Kochi,Ergonomic Keyboard,Electronics,Accessories,1,4500,0.10,4050.00,1550.00
+20,2023-09-18,2023-09-21,Kavya Iyer,Consumer,South,Hyderabad,Monitor 24 inch,Electronics,Monitors,1,18000,0.00,18000.00,6000.00
+21,2023-10-03,2023-10-06,Ravi Kumar,Consumer,South,Hyderabad,Office Chair Deluxe,Furniture,Chairs,1,12000,0.05,11400.00,4400.00
+22,2023-10-20,2023-10-23,Priya Sharma,Corporate,West,Mumbai,USB-C Hub,Electronics,Accessories,1,3500,0.10,3150.00,1350.00
+23,2023-11-05,2023-11-08,Amit Patel,Consumer,West,Ahmedabad,Webcam HD 1080p,Electronics,Accessories,1,3200,0.00,3200.00,1600.00
+24,2023-11-18,2023-11-21,Sneha Reddy,Home Office,South,Bangalore,A4 Paper Ream,Office Supplies,Paper,5,350,0.00,1750.00,850.00
+25,2023-12-02,2023-12-05,Vikram Singh,Corporate,North,Delhi,Laptop Pro 15,Electronics,Laptops,1,55000,0.05,52250.00,12250.00
+26,2023-12-15,2023-12-18,Anita Joshi,Consumer,West,Pune,Standing Desk,Furniture,Desks,1,25000,0.10,22500.00,7500.00
+27,2023-12-28,2023-12-31,Rahul Nair,Corporate,South,Chennai,Desk Lamp LED,Electronics,Lighting,1,2200,0.00,2200.00,1100.00
+28,2024-01-10,2024-01-13,Deepika Rao,Consumer,East,Kolkata,Wireless Mouse,Electronics,Accessories,3,1200,0.00,3600.00,1800.00
+29,2024-01-25,2024-01-28,Suresh Menon,Home Office,South,Kochi,Ergonomic Keyboard,Electronics,Accessories,1,4500,0.05,4275.00,1775.00
+30,2024-02-08,2024-02-11,Kavya Iyer,Consumer,South,Hyderabad,Monitor 24 inch,Electronics,Monitors,1,18000,0.10,16200.00,4200.00
+31,2024-02-20,2024-02-23,Ravi Kumar,Consumer,South,Hyderabad,Filing Cabinet,Furniture,Storage,1,8000,0.05,7600.00,2600.00
+32,2024-03-05,2024-03-08,Priya Sharma,Corporate,West,Mumbai,Whiteboard Markers,Office Supplies,Stationery,10,250,0.00,2500.00,1500.00
+33,2024-03-18,2024-03-21,Amit Patel,Consumer,West,Ahmedabad,Office Chair Deluxe,Furniture,Chairs,1,12000,0.00,12000.00,5000.00
+34,2024-04-02,2024-04-05,Sneha Reddy,Home Office,South,Bangalore,Notebook Pack,Office Supplies,Stationery,5,400,0.00,2000.00,1100.00
+35,2024-04-15,2024-04-18,Vikram Singh,Corporate,North,Delhi,Laptop Pro 15,Electronics,Laptops,1,55000,0.05,52250.00,12250.00
+36,2024-05-01,2024-05-04,Anita Joshi,Consumer,West,Pune,Bookshelf 5-tier,Furniture,Storage,1,6500,0.10,5850.00,1850.00
+37,2024-05-20,2024-05-23,Rahul Nair,Corporate,South,Chennai,USB-C Hub,Electronics,Accessories,1,3500,0.00,3500.00,1700.00
+38,2024-06-08,2024-06-11,Deepika Rao,Consumer,East,Kolkata,Webcam HD 1080p,Electronics,Accessories,1,3200,0.05,3040.00,1440.00
+39,2024-06-25,2024-06-28,Suresh Menon,Home Office,South,Kochi,Standing Desk,Furniture,Desks,1,25000,0.05,23750.00,8750.00
+40,2024-07-10,2024-07-13,Kavya Iyer,Consumer,South,Hyderabad,Printer Ink Set,Office Supplies,Ink,1,1800,0.00,1800.00,900.00
+41,2024-07-28,2024-07-31,Ravi Kumar,Consumer,South,Hyderabad,Wireless Mouse,Electronics,Accessories,2,1200,0.10,2160.00,960.00
+42,2024-08-12,2024-08-15,Priya Sharma,Corporate,West,Mumbai,Ergonomic Keyboard,Electronics,Accessories,1,4500,0.00,4500.00,2000.00
+43,2024-08-25,2024-08-28,Amit Patel,Consumer,West,Ahmedabad,Monitor 24 inch,Electronics,Monitors,1,18000,0.05,17100.00,5100.00
+44,2024-09-09,2024-09-12,Sneha Reddy,Home Office,South,Bangalore,A4 Paper Ream,Office Supplies,Paper,5,350,0.00,1750.00,850.00
+45,2024-09-22,2024-09-25,Vikram Singh,Corporate,North,Delhi,Desk Lamp LED,Electronics,Lighting,1,2200,0.10,1980.00,880.00
+46,2024-10-07,2024-10-10,Anita Joshi,Consumer,West,Pune,Laptop Pro 15,Electronics,Laptops,1,55000,0.05,52250.00,12250.00
+47,2024-10-20,2024-10-23,Rahul Nair,Corporate,South,Chennai,Office Chair Deluxe,Furniture,Chairs,1,12000,0.00,12000.00,5000.00
+48,2024-11-05,2024-11-08,Deepika Rao,Consumer,East,Kolkata,Filing Cabinet,Furniture,Storage,1,8000,0.10,7200.00,2200.00
+49,2024-11-18,2024-11-21,Suresh Menon,Home Office,South,Kochi,Whiteboard Markers,Office Supplies,Stationery,10,250,0.00,2500.00,1500.00
+50,2024-12-03,2024-12-06,Kavya Iyer,Consumer,South,Hyderabad,Standing Desk,Furniture,Desks,1,25000,0.05,23750.00,8750.00
